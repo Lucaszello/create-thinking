@@ -1,0 +1,22 @@
+{
+  "name": "paing-thura-kyaw",
+  "version": "1.0.0",
+  "description": "\"h1-element\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"h1-Element\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucaszello/create-thinking.git"
+  },
+  "keywords": [
+    "\"heading-element\""
+  ],
+  "author": "\"heading\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucaszello/create-thinking/issues"
+  },
+  "homepage": "https://github.com/Lucaszello/create-thinking#readme"
+}
